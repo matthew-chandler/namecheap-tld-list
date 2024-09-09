@@ -1,6 +1,6 @@
 ## Up-to-date list
 
-The current up-to-date list (last updated on 4/11/2024) is stored in **TLDs.json** as an array.
+The current up-to-date list (last updated on 2024-04-11) is stored in **TLDs.json** as an array.
 
 ## About project
 
